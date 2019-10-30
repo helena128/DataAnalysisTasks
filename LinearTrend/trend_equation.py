@@ -35,9 +35,9 @@ def calcr2(a, b):
 
 def main():
     a, b = find_a_b()
-    print 'a = ', a, 'b = ', b
+    print('a = ', a, 'b = ', b)
     r2 = calcr2(a, b)
-    print 'r2 = ', r2
+    print('r2 = ', r2)
     
 
 if __name__ == '__main__':
